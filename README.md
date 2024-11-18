@@ -32,3 +32,13 @@ Este es un proyecto creado con **React**, **React Router** y **Tailwind CSS**. L
 
 - npm install
 - npm run dev
+
+ ## Entrar al proyecto:
+
+- http://localhost:5173/login
+
+## Credenciales
+
+- Email: eve.holt@reqres.in
+- Password: cityslicka
+
